@@ -1,3 +1,7 @@
+#Project Komputer : Aplikasi Tiket Bioskop
+#Nama: Zaneta Fransiske
+#Kelas : X KOMPUTER 1
+
 from os import system
 from datetime import datetime
 import datetime as dt 
